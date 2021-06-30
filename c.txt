@@ -1,0 +1,1 @@
+GitHub Desktop Focus on what matters instead of fighting with Git. Whether you're new to Git or a seasoned user, GitHub Desktop simplifies your development workflow. Download for macOS Download for Windows (64bit) Download for macOS or Windows (msi) Download the native macOS build for Apple silicon machines
